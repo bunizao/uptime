@@ -4,17 +4,19 @@
     "url": "https://tutuis.me",
     "icon": "https://icons.duckduckgo.com/ip3/tutuis.me.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 100,
-    "timeWeek": 155,
-    "timeMonth": 194,
-    "timeYear": 195,
-    "dailyMinutesDown": {}
+    "time": 194,
+    "timeDay": 90,
+    "timeWeek": 145,
+    "timeMonth": 190,
+    "timeYear": 194,
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   }
 ]
