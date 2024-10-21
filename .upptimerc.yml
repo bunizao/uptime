@@ -1,7 +1,7 @@
 # Change these first
 owner: bunizao # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
 sites:
   - name: Backend@SubsConverter
     url: https://api.tuu.cat
@@ -9,7 +9,7 @@ sites:
     url: https://tuu.cat
   - name: Tutu's Blog
     url: https://tutuis.me
-  - name: 無人之境
+  - name: Mooooooooood
     url: https://buxx.me
   
 
