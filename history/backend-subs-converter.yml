@@ -1,7 +1,7 @@
-url: https://api.tuu.cat
-status: down
-code: 403
-responseTime: 197
-lastUpdated: 2024-10-21T09:43:27.633Z
+url: https://api.tuu.cat/version
+status: up
+code: 200
+responseTime: 337
+lastUpdated: 2024-10-21T18:32:56.594Z
 startTime: 2024-08-06T08:57:03.536Z
 generator: Upptime <https://github.com/upptime/upptime>
