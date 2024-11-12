@@ -4,18 +4,19 @@
     "url": "https://api.tuu.cat/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.tuu.cat.ico",
     "slug": "backend-subs-converter",
-    "status": "up",
-    "uptime": "51.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "52.01%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.85%",
+    "uptimeYear": "52.01%",
     "time": 221,
     "timeDay": 276,
     "timeWeek": 302,
     "timeMonth": 291,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2024-11-12": 2,
       "2024-09-22": 587,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -71,7 +72,7 @@
     "url": "https://tuu.cat",
     "icon": "https://icons.duckduckgo.com/ip3/tuu.cat.ico",
     "slug": "api-url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -82,7 +83,9 @@
     "timeWeek": 340,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Tutu's Blog",
