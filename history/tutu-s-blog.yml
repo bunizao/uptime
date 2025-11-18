@@ -1,7 +1,7 @@
 url: https://tutuis.me
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2025-11-17T23:20:18.597Z
+status: down
+code: 500
+responseTime: 46
+lastUpdated: 2025-11-18T11:36:19.565Z
 startTime: 2024-08-06T08:57:07.258Z
 generator: Upptime <https://github.com/upptime/upptime>
