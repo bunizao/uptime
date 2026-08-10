@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tuu.cat.ico",
     "slug": "backend-subs-converter",
     "status": "down",
-    "uptime": "10.95%",
+    "uptime": "10.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 19591,
     "timeYear": 19591,
     "dailyMinutesDown": {
-      "2026-08-10": 122,
+      "2026-08-10": 754,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -388,12 +388,12 @@
     "url": "https://tuu.cat",
     "icon": "https://icons.duckduckgo.com/ip3/tuu.cat.ico",
     "slug": "api-url-shortener",
-    "status": "up",
-    "uptime": "41.59%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "41.63%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.90%",
+    "uptimeYear": "61.02%",
     "time": 10012,
     "timeDay": 154,
     "timeWeek": 355,
@@ -543,7 +543,8 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2026-01-25": 136,
-      "2026-04-09": 76
+      "2026-04-09": 76,
+      "2026-08-10": 0
     }
   },
   {
@@ -572,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/buxx.me.ico",
     "slug": "with-moon-s",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
