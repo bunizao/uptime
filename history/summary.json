@@ -16,7 +16,7 @@
     "timeMonth": 19558,
     "timeYear": 19574,
     "dailyMinutesDown": {
-      "2026-09-12": 973,
+      "2026-09-12": 1108,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tuu.cat.ico",
     "slug": "api-url-shortener",
     "status": "up",
-    "uptime": "44.42%",
+    "uptime": "44.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.08%",
+    "uptimeYear": "70.11%",
     "time": 9216,
     "timeDay": 205,
     "timeWeek": 203,
@@ -539,16 +539,16 @@
     "url": "https://buxx.me",
     "icon": "https://icons.duckduckgo.com/ip3/buxx.me.ico",
     "slug": "with-moon-s",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.72%",
-    "time": 737,
-    "timeDay": 328,
-    "timeWeek": 303,
-    "timeMonth": 331,
+    "status": "up",
+    "uptime": "97.56%",
+    "uptimeDay": "72.19%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.70%",
+    "time": 718,
+    "timeDay": 495,
+    "timeWeek": 343,
+    "timeMonth": 341,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-10-12": 21,
@@ -559,7 +559,7 @@
       "2026-01-08": 78,
       "2026-01-25": 135,
       "2026-09-10": 160,
-      "2026-09-12": 266
+      "2026-09-12": 400
     }
   }
 ]
